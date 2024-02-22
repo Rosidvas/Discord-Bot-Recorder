@@ -86,7 +86,7 @@ async def leaveVoice(context):
         await context.response.send_message("The bot is not connected to a voice channel.")
 
 
-client.run('MTE0NTk4MjcwMzEwODM2NjQwNg.Ghb5Vg.oyperjgqQuL_yjfsN2pGk1FYKiyM5Y3gff9N3A') # 💪💪💪 Token here
+client.run('') # 💪💪💪 Token here
 
 
     
